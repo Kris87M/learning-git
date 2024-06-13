@@ -12,6 +12,9 @@ body {
     line-height: 1.5;
 }
 
+h1 {
+    text-transform: uppercase;
+}
 footer {
     font-size: 12px;
 }
